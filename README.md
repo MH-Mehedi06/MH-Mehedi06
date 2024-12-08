@@ -51,9 +51,9 @@ I'm passionate about helping businesses improve their online visibility through 
 
 ### 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](Your-LinkedIn-URL)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](Your-Twitter-URL)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/md-moazzem-hossain-mehedi/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/MhMehedi06?t=bGYSHSaar1tZuQRho4dfQg&s=08 )
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mhmehedi2829@gmail.com)
 
 ### 📈 Profile Views
 
@@ -65,4 +65,4 @@ I'm passionate about helping businesses improve their online visibility through 
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-⭐️ From [YourGitHubUsername](https://github.com/YourGitHubUsername)
+⭐️ From [MH-Mehedi06](https://github.com/MH-Mehedi06/)
