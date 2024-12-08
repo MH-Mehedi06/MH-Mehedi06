@@ -1,11 +1,14 @@
 # 👋 Hi, I'm Md Moazzem Hossain
 
-## 🎯 SEO Specialist & Digital Marketing Expert
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=SEO+Specialist;Machine+Learning+Engineer;Digital+Marketing+Expert" alt="Typing SVG" />
+</div>
 
-I'm passionate about helping businesses improve their online visibility and achieve better search engine rankings through effective SEO strategies.
+I'm passionate about helping businesses improve their online visibility through effective SEO strategies and developing intelligent solutions using Machine Learning.
 
 ### 🔧 Skills & Expertise
 
+**SEO & Digital Marketing:**
 - Search Engine Optimization (SEO)
 - Keyword Research & Analysis
 - On-page & Off-page SEO
@@ -14,10 +17,22 @@ I'm passionate about helping businesses improve their online visibility and achi
 - Link Building
 - Google Analytics
 - Google Search Console
-- Digital Marketing
+
+**Machine Learning:**
+- Data Analysis & Preprocessing
+- Predictive Modeling
+- Deep Learning
+- Natural Language Processing
+- Computer Vision
+- Python for ML/AI
+- TensorFlow & PyTorch
+- Scikit-learn
 
 ### 🌐 Languages & Tools
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit%20learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=WordPress&logoColor=white)
@@ -25,9 +40,14 @@ I'm passionate about helping businesses improve their online visibility and achi
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="GitHub Streak"/>
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical"/>
+</div>
 
 ### 🤝 Connect with Me
 
@@ -40,5 +60,9 @@ I'm passionate about helping businesses improve their online visibility and achi
 ![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=brightgreen)
 
 ---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ⭐️ From [YourGitHubUsername](https://github.com/YourGitHubUsername)
