@@ -8,6 +8,16 @@ I'm passionate about helping businesses improve their online visibility through 
 
 ### 🔧 Skills & Expertise
 
+**Machine Learning:**
+- Data Analysis & Preprocessing
+- Predictive Modeling
+- Deep Learning
+- Natural Language Processing
+- Computer Vision
+- Python for ML/AI
+- TensorFlow & PyTorch
+- Scikit-learn
+
 **SEO & Digital Marketing:**
 - Search Engine Optimization (SEO)
 - Keyword Research & Analysis
@@ -18,15 +28,6 @@ I'm passionate about helping businesses improve their online visibility through 
 - Google Analytics
 - Google Search Console
 
-**Machine Learning:**
-- Data Analysis & Preprocessing
-- Predictive Modeling
-- Deep Learning
-- Natural Language Processing
-- Computer Vision
-- Python for ML/AI
-- TensorFlow & PyTorch
-- Scikit-learn
 
 ### 🌐 Languages & Tools
 
