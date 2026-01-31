@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Md Moazzem Hossain
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=SEO+Specialist;Machine+Learning+Engineer;Digital+Marketing+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Machine+Learning+Engineer;SEO+Specialist;" alt="Typing SVG" />
 </div>
 
 I'm passionate about helping businesses improve their online visibility through effective SEO strategies and developing intelligent solutions using Machine Learning.
